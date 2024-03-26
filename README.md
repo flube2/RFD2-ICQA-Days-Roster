@@ -11,7 +11,7 @@ Level - Title (Shift) - Name - Login/Email(clicking leads to phonetool page)
 
 (L5) - Area Manager (FHN)       - Abdulhamid Jamal          - [jaabdulh](https://phonetool.amazon.com/users/jaabdulh)
 
-(L5) - Area Manager (BHD)       - Xavier Lucas          - [lucasx](https://phonetool.amazon.com/users/lucasx)
+(L5) - Area Manager (BHD)       - Xavier Lucas              - [lucasx](https://phonetool.amazon.com/users/lucasx)
 
 (L5) - Area Manager (BHN)       - Anthony Kuchenny          - [kuchea](https://phonetool.amazon.com/users/kuchea)
 
@@ -27,7 +27,9 @@ Level - Title (Shift) - Name - Login/Email(clicking leads to phonetool page)
 
 (L3) - Process Assistant (BHD)  - Gio Barrios               - [barriogi](https://phonetool.amazon.com/users/barriogi)
 
-(L3) - Process Assistant (BHD) - Frank Lubek (UIS/Mansort) - [lubef](https://phonetool.amazon.com/users/lubef)
+(L3) - Process Assistant (BHD) - Frank Lubek (UIS/Mansort)  - [lubef](https://phonetool.amazon.com/users/lubef)
+
+(L3) - Process Assistant (BHN) - Edgar Flores (Away Team)   - [beledga](https://phonetool.amazon.com/users/beledga)
 
 
 ISS
