@@ -7,11 +7,13 @@ Level - Title - Name - Login/Email(clicking leads to phonetool page)
 (L6) - Operations Manager - Rob Forney                - [forner](https://phonetool.amazon.com/users/forner)
 
 
-(L5) - Area Manager       - Abdulhamid Jamal          - [jaabdulh](https://phonetool.amazon.com/users/jaabdulh)
+(L5) - Area Manager (FHD)       - Adam Lein                 - [leinadam](https://phonetool.amazon.com/users/leinadam)
 
-(L5) - Area Manager       - Adam Lein                 - [leinadam](https://phonetool.amazon.com/users/leinadam)
+(L5) - Area Manager (FHN)       - Abdulhamid Jamal          - [jaabdulh](https://phonetool.amazon.com/users/jaabdulh)
 
-(L5) - Area Manager       - Anthony Kuchenny          - [kuchea](https://phonetool.amazon.com/users/kuchea)
+(L5) - Area Manager (BHD)       - Xavier Lucas          - [lucasx](https://phonetool.amazon.com/users/lucasx)
+
+(L5) - Area Manager (BHN)       - Anthony Kuchenny          - [kuchea](https://phonetool.amazon.com/users/kuchea)
 
 
 
