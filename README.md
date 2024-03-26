@@ -2,7 +2,7 @@
 Roster for ICQA/Quality Department leadership (basically a placeholder until I can edit our wiki page)
 
 
-Level - Title - Name - Login/Email(clicking leads to phonetool page)
+Level - Title (Shift) - Name - Login/Email(clicking leads to phonetool page)
 
 (L6) - Operations Manager - Rob Forney                - [forner](https://phonetool.amazon.com/users/forner)
 
