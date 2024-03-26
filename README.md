@@ -4,7 +4,7 @@ Roster for ICQA/Quality Department leadership (basically a placeholder until I c
 
 Level - Title (Shift) - Name - Login/Email(clicking leads to phonetool page)
 
-(L6) - Operations Manager - Rob Forney                - [forner](https://phonetool.amazon.com/users/forner)
+(L6) - Operations Manager (M-F) - Rob Forney                - [forner](https://phonetool.amazon.com/users/forner)
 
 
 (L5) - Area Manager (FHD)       - Adam Lein                 - [leinadam](https://phonetool.amazon.com/users/leinadam)
@@ -17,15 +17,15 @@ Level - Title (Shift) - Name - Login/Email(clicking leads to phonetool page)
 
 
 
-(L3) - Process Assistant  - Monse Cruz (NPC/IB)       - [monscruz](https://phonetool.amazon.com/users/monscruz)
+(L3) - Process Assistant (FHD)  - Angel Maysonet (RPND)     - [angmaysz](https://phonetool.amazon.com/users/angmaysz) 
 
-(L3) - Process Assistant  - Angel Maysonet (RPND)     - [angmaysz](https://phonetool.amazon.com/users/angmaysz) 
+(L3) - Process Assistant (FHD)  - April Stallard            - [stalapri](https://phonetool.amazon.com/users/stalapri)
 
-(L3) - Process Assistant  - April Stallard            - [stalapri](https://phonetool.amazon.com/users/stalapri)
+(L3) - Process Assistant (BHD)  - Monse Cruz (NPC/IB)       - [monscruz](https://phonetool.amazon.com/users/monscruz)
 
-(L3) - Process Assistant  - Gio Barrios               - [barriogi](https://phonetool.amazon.com/users/barriogi)
+(L3) - Process Assistant (BHD)  - Gio Barrios               - [barriogi](https://phonetool.amazon.com/users/barriogi)
 
-(L3) - Process Assistant  - Frank Lubek (UIS/Mansort) - [lubef](https://phonetool.amazon.com/users/lubef)
+(L3) - Process Assistant (BHD) - Frank Lubek (UIS/Mansort) - [lubef](https://phonetool.amazon.com/users/lubef)
 
 
 ISS
