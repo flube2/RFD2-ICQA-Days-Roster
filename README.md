@@ -1,4 +1,4 @@
-# RFD2-ICQA-Days-Roster
+# RFD2-ICQA-Roster
 Roster for ICQA/Quality Department leadership (basically a placeholder until I can edit our wiki page)
 
 
