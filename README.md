@@ -21,6 +21,8 @@ Level - Title (Shift) - Name - Login/Email(clicking leads to phonetool page)
 
 (L3) - Process Assistant (FHD)  - April Stallard            - [stalapri](https://phonetool.amazon.com/users/stalapri)
 
+(L3) - Process Assistant (FHN) - Darnetta Mckissack         - [mckissd](https://phonetool.amazon.com/users/mckissd)
+
 (L3) - Process Assistant (BHD)  - Monse Cruz (NPC/IB)       - [monscruz](https://phonetool.amazon.com/users/monscruz)
 
 (L3) - Process Assistant (BHD)  - Gio Barrios               - [barriogi](https://phonetool.amazon.com/users/barriogi)
